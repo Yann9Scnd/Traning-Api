@@ -1,0 +1,13 @@
+C:\Users\ADMIN\toko-mini\src\main\java\toko\GrpcClient.java
+C:\Users\ADMIN\toko-mini\src\main\java\toko\GrpcMain.java
+C:\Users\ADMIN\toko-mini\src\main\java\toko\InventoryService.java
+C:\Users\ADMIN\toko-mini\src\main\java\toko\OrderHandler.java
+C:\Users\ADMIN\toko-mini\src\main\java\toko\ProductController.java
+C:\Users\ADMIN\toko-mini\src\main\java\toko\TokoApplication.java
+C:\Users\ADMIN\toko-mini\src\main\java\toko\WsConfig.java
+C:\Users\ADMIN\toko-mini\target\generated-sources\protobuf\grpc-java\toko\grpc\InventoryGrpc.java
+C:\Users\ADMIN\toko-mini\target\generated-sources\protobuf\java\toko\grpc\InventoryOuterClass.java
+C:\Users\ADMIN\toko-mini\target\generated-sources\protobuf\java\toko\grpc\StockReply.java
+C:\Users\ADMIN\toko-mini\target\generated-sources\protobuf\java\toko\grpc\StockReplyOrBuilder.java
+C:\Users\ADMIN\toko-mini\target\generated-sources\protobuf\java\toko\grpc\StockRequest.java
+C:\Users\ADMIN\toko-mini\target\generated-sources\protobuf\java\toko\grpc\StockRequestOrBuilder.java
